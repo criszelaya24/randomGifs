@@ -3,6 +3,8 @@
     This is an small project to put in practice the functionality from react hooks and apply a custom one into it,
     applying a fun visualization from random gif or specifics one.
 
+![Image](https://i.ibb.co/LCrLZDk/random-gif.png)
+
 ***This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).***
 
 ## Setup-up
